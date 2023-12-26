@@ -5,3 +5,6 @@ class m2{
 code}
 class m3{
 code}
+class m4{
+code
+}
